@@ -2,6 +2,6 @@
  
 I wrote in the markdown file :)
 
-I wrote more this is commit 2 i wrote LESS.
+I wrote more this is commit 2 i wrote more.
 
-changes on main : )
+Second branch wow
