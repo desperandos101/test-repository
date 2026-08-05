@@ -1,4 +1,6 @@
 # test-repository
+Hello, it is me, fake PNG annoying dog
+![annoying dog.png]
 
 I wrote in the markdown file :)
 
